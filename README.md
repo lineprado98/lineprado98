@@ -5,4 +5,4 @@
 ### About me
 
 I am a student of Analysis and systems development at FADERGS ✍,      
-💻 currently working as a Developer at [@DoWhile]( https://www.dowhile.com.br/).
+💻 currently working as a Developer at [@IBM](https://www.ibm.com/br-pt).
