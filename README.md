@@ -6,3 +6,15 @@
 
 I am a student of Analysis and systems development at FADERGS ✍,      
 💻 currently working as a Developer at [@IBM](https://www.ibm.com/br-pt).
+<div style="background-color:#00BFFF;text-align:center">
+<a target="_blank" href="https://github.comalineprado98">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lineprado98&show_icons=true&include_all_commits=true&count_private=true&theme=dracula"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=lineprado98&show_icons=true&include_all_commits=true&layout=copact&count_private=true&theme=dracula"/>
+ 
+  </a>
+  </div>
+
+  ![Snake animation](https://github.com/bwolfs2/bwolfs2/blob/output/github-contribution-grid-snake.svg)
+
+
